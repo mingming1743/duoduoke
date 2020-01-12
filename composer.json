@@ -5,7 +5,7 @@
         "拼多多",
         "多多客"
     ],
-    "homepage": "#",
+    "homepage": "http://www.workerman.net",
     "license": "MIT",
     "description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications.",
     "authors": [
