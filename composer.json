@@ -1,5 +1,5 @@
 {
-    "name": "mingyuan/duoduoke",
+    "name": "mingfang/duoduoke",
     "type": "library",
     "keywords": [
         "拼多多",
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mingyuan\\": "./"
+            "Mingfang\\": "./"
         }
     },
     "minimum-stability": "dev"
