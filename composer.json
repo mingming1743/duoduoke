@@ -33,6 +33,5 @@
         "psr-4": {
             "Mingfang\\": "./"
         }
-    },
-    "minimum-stability": "1.0"
+    }
 }
